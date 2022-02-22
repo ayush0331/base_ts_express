@@ -1,0 +1,9 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.app = void 0;
+const express_api_1 = require("./express.api");
+const api = new express_api_1.expressApi();
+api.run();
+const app = api.app;
+exports.app = app;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uL3NyYy9tYWluLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLCtDQUEyQztBQUUzQyxNQUFNLEdBQUcsR0FBRyxJQUFJLHdCQUFVLEVBQUUsQ0FBQztBQUU3QixHQUFHLENBQUMsR0FBRyxFQUFFLENBQUM7QUFFVixNQUFNLEdBQUcsR0FBRyxHQUFHLENBQUMsR0FBRyxDQUFDO0FBQ1gsa0JBQUciLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBleHByZXNzQXBpIH0gZnJvbSBcIi4vZXhwcmVzcy5hcGlcIjtcblxuY29uc3QgYXBpID0gbmV3IGV4cHJlc3NBcGkoKTtcblxuYXBpLnJ1bigpO1xuXG5jb25zdCBhcHAgPSBhcGkuYXBwO1xuZXhwb3J0IHsgYXBwIH07XG4iXX0=

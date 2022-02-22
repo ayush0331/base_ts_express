@@ -1,0 +1,1 @@
+{"version":3,"file":"app.routing.d.ts","sourceRoot":"","sources":["../../src/router/app.routing.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AAIjC,qBAAa,UAAU;IACT,OAAO,CAAC,KAAK;gBAAL,KAAK,EAAE,MAAM;IAI1B,SAAS;IAIhB,OAAO,CAAC,QAAQ;CAGjB"}
